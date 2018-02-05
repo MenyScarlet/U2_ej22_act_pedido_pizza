@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">U2_ej22_act_pedido_pizza</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="tv_masa">Masa:</string>
+    <string name="tv_ingredientes">Ingredientes:</string>
+    <string name="tv_tamaño">Tamaño:</string>
+    <string name="rb_pequeño">Pequeño</string>
+    <string name="rb_clasico">Clásico</string>
+    <string name="rb_familiar">Familiar</string>
+    <string name="cb_york">York</string>
+    <string name="cb_atun">Atún</string>
+    <string name="cb_pollo">Pollo</string>
+    <string name="cb_ternera">Ternera</string>
+    <string name="cb_pimiento">Pimiento</string>
+    <string name="cb_cebolla">Cebolla</string>
+    <string name="cb_boloñesa">Boloñesa</string>
+    <string name="cb_carbonara">Carbonara</string>
+</resources>
